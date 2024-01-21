@@ -1,5 +1,5 @@
 #pragma once
-#ifdef HZ_WINDOWS_PLATFORM
+#ifdef HZ_PLATFORM_WINDOWS
 
 extern Hazel::Application* Hazel::CreateApplication();
 
