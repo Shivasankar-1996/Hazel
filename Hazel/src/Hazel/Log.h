@@ -4,8 +4,6 @@
 
 #include "spdlog/fmt/ostr.h"
 
-#include<memory>
-
 #include "Core.h"
 
 namespace Hazel {
